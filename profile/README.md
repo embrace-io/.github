@@ -1,7 +1,5 @@
 ![embrace_color_logo](https://github.com/embrace-io/.github/assets/19441/9a7600b1-754e-47bd-bbbf-ba7989e0f8a6)
 
-![embrace_color_logo](/./../assets/19441/9a7600b1-754e-47bd-bbbf-ba7989e0f8a6)
-
 # Welcome to Embrace!
 
 Embrace is observability for a mobile world. Our instrumentation and insights allow you to move beyond mere monitoring, and solve the problems that affect your app.
