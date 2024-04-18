@@ -2,7 +2,7 @@
 
 # Welcome to Embrace!
 
-[Embrace](https://embrace.io) is observability for a mobile world. Our instrumentation and insights allow you to move beyond mere monitoring, and identify the issues that affect your app.
+[Embrace](https://embrace.io/) is observability for a mobile world. Our instrumentation and insights allow you to move beyond mere monitoring, and identify the issues that affect your app.
 
 ## Embrace's Commitment to Open
 
@@ -24,6 +24,6 @@ If you have any trouble making a contribution, please [contact us directly](mail
 
 ## Additional Information
 
-The best details for implementing Embrace's SDKs can be found at our [documentation site](embrace.io/docs).
+The best details for implementing Embrace's SDKs can be found at our [documentation site](https://embrace.io/docs/).
 
 To see how you can get the most out of Embrace, [request a demo](https://embrace.io/request-demo/)
