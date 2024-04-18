@@ -6,7 +6,7 @@ Embrace is observability for a mobile world. Our instrumentation and insights al
 
 ## Embrace's Commitment to Open
 
-Embrace has fully open-sourced its mobile software development kits. The available SDKs are for Android, iOS, Flutter, ReactNative, and Unity. Pull down the code, try out the instrumentation, and contribute if there's a capability you'd like to see.
+Embrace has fully open-sourced its mobile software development kits. The available SDKs are for [the Apple ecosystem](https://github.com/embrace-io/embrace-apple-sdk), [Android](https://github.com/embrace-io/embrace-android-sdk), [React Native](https://github.com/embrace-io/embrace-react-native-sdk), [Flutter](https://github.com/embrace-io/embrace-flutter-sdk), and [Unity](https://github.com/embrace-io/embrace-unity-sdk). Pull down the code, try out the instrumentation, and contribute if there's a capability you'd like to see.
 
 Additionally, as Embrace is a mobile-focused member of the [Cloud Native Computing Foundation](https://www.cncf.io) and an [OpenTelemetry Vendor](https://opentelemetry.io/ecosystem/vendors/), each mobile SDK is building towards full compliance with and extension of [OpenTelemetry's key signals](https://opentelemetry.io/docs/concepts/signals/). Presently, the iOS and Android SDKs have fully-exportable traces and logs built into their feature sets.
 
