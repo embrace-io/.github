@@ -2,7 +2,7 @@
 
 # Welcome to Embrace!
 
-Embrace is observability for a mobile world. Our instrumentation and insights allow you to move beyond mere monitoring, and solve the problems that affect your app.
+[Embrace](https://embrace.io) is observability for a mobile world. Our instrumentation and insights allow you to move beyond mere monitoring, and identify the issues that affect your app.
 
 ## Embrace's Commitment to Open
 
@@ -14,7 +14,7 @@ Embrace's mobile SDKs are each published under the AGPLv3 license.
 
 ## Contributing to Embrace
 
-If you would like to contribute code to a repository, you can fork the repository and send a pull request. You can also open an issue to suggest and discuss changes.
+If you would like to contribute code to a repository, you can fork the repository and make a pull request. You can also open an issue to suggest and discuss changes.
 
 Before code can be accepted, all contributors must complete our [Individual Contributor License Agreement (CLA)](https://forms.gle/SjXadmUcVwh6NrU68).
 
