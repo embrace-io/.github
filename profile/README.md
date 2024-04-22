@@ -1,4 +1,4 @@
-![embrace_color_logo](https://github.com/embrace-io/.github/assets/19441/9a7600b1-754e-47bd-bbbf-ba7989e0f8a6)
+![Embrace-logo-lead background](https://github.com/embrace-io/.github/assets/50370157/50901bcd-69d2-4689-9571-104f965f3688)
 
 # Welcome to Embrace!
 
