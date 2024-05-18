@@ -10,7 +10,7 @@ Embrace has fully open-sourced its mobile software development kits. The availab
 
 Additionally, as Embrace is a mobile-focused member of the [Cloud Native Computing Foundation](https://www.cncf.io) and an [OpenTelemetry Vendor](https://opentelemetry.io/ecosystem/vendors/), each mobile SDK is building towards full compliance with and extension of [OpenTelemetry's key signals](https://opentelemetry.io/docs/concepts/signals/). Presently, the iOS and Android SDKs have fully-exportable traces and logs built into their feature sets.
 
-Embrace's mobile SDKs are each published under the AGPLv3 license.
+Embrace's mobile SDKs are each published under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license.
 
 ## Contributing to Embrace
 
