@@ -20,8 +20,7 @@ Before code can be accepted, all contributors must complete our [Individual Cont
 
 When submitting code, please make every effort to follow existing conventions and style in order to keep the code as readable as possible.
 
-If you have any trouble making a contribution, please [contact us directly](mailto:support@embrace.io) or reach out in our [Community Slack](https://embraceio-community.slack.com/).
-
+If you have any trouble making a contribution, please [contact us directly](mailto:support@embrace.io) or reach out in our [Community Slack](https://community.embrace.io).
 ## Additional Information
 
 The best details for implementing Embrace's SDKs can be found at our [documentation site](https://embrace.io/docs/).
