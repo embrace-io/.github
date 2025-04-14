@@ -8,7 +8,9 @@
 
 Embrace has fully open-sourced its mobile software development kits. The available SDKs are for [the Apple ecosystem](https://github.com/embrace-io/embrace-apple-sdk), [Android](https://github.com/embrace-io/embrace-android-sdk), [React Native](https://github.com/embrace-io/embrace-react-native-sdk), [Flutter](https://github.com/embrace-io/embrace-flutter-sdk), and [Unity](https://github.com/embrace-io/embrace-unity-sdk). Pull down the code, try out the instrumentation, and contribute if there's a capability you'd like to see.
 
-Additionally, as Embrace is a mobile-focused member of the [Cloud Native Computing Foundation](https://www.cncf.io) and an [OpenTelemetry Vendor](https://opentelemetry.io/ecosystem/vendors/), each mobile SDK is building towards full compliance with and extension of [OpenTelemetry's key signals](https://opentelemetry.io/docs/concepts/signals/). Presently, the iOS, Android, and React Native SDKs have fully-exportable traces and logs built into their feature sets.
+Embrace is a mobile-focused member of the [Cloud Native Computing Foundation](https://www.cncf.io) and an [OpenTelemetry Vendor](https://opentelemetry.io/ecosystem/vendors/). Each mobile SDK is building towards full compliance with and extension of [OpenTelemetry's key signals](https://opentelemetry.io/docs/concepts/signals/). Presently, the iOS, Android, and React Native SDKs have fully-exportable traces and logs built into their feature sets.
+
+Additionally, Embrace is working to make Kotlin a first-class language in the OpenTelemetry ecosystem, to better-support mobile engineers working on Android and [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html). The first step is a currently-experimental [Kotlin API](https://github.com/embrace-io/opentelemetry-kotlin) that binds the existing OpenTelemetry-Java SDK. The API provides tracing and logging APIs and can be used in Android and JVM-based projects by providing it with an instance of the Java OTel SDK.
 
 Embrace's mobile SDKs are each published under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license.
 
