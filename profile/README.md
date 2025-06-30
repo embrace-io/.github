@@ -2,17 +2,17 @@
 
 # Welcome to Embrace!
 
-[Embrace](https://embrace.io/) is observability for a mobile world. Our instrumentation and insights allow you to move beyond mere monitoring, and identify the issues that affect your app.
+[Embrace](https://embrace.io/) is observability for a user-centric world. Our instrumentation and insights allow you to move beyond mere monitoring, and identify the issues that affect your apps.
 
 ## Embrace's Commitment to Open
 
-Embrace has fully open-sourced its mobile software development kits. The available SDKs are for [the Apple ecosystem](https://github.com/embrace-io/embrace-apple-sdk), [Android](https://github.com/embrace-io/embrace-android-sdk), [React Native](https://github.com/embrace-io/embrace-react-native-sdk), [Flutter](https://github.com/embrace-io/embrace-flutter-sdk), and [Unity](https://github.com/embrace-io/embrace-unity-sdk). Pull down the code, try out the instrumentation, and contribute if there's a capability you'd like to see.
+Embrace has fully open-sourced its mobile and web software development kits. The available mobile SDKs are for [the Apple ecosystem](https://github.com/embrace-io/embrace-apple-sdk), [Android](https://github.com/embrace-io/embrace-android-sdk), [React Native](https://github.com/embrace-io/embrace-react-native-sdk), [Flutter](https://github.com/embrace-io/embrace-flutter-sdk), and [Unity](https://github.com/embrace-io/embrace-unity-sdk). Additionally, our [Web SDK](https://github.com/embrace-io/embrace-web-sdk) provides in-depth telemetry for web apps. Pull down the code, try out the instrumentation, and contribute if there's a capability you'd like to see.
 
-Embrace is a mobile-focused member of the [Cloud Native Computing Foundation](https://www.cncf.io) and an [OpenTelemetry Vendor](https://opentelemetry.io/ecosystem/vendors/). Each mobile SDK is building towards full compliance with and extension of [OpenTelemetry's key signals](https://opentelemetry.io/docs/concepts/signals/). Presently, the iOS, Android, and React Native SDKs have fully-exportable traces and logs built into their feature sets.
+Embrace is a user-obsessed member of the [Cloud Native Computing Foundation](https://www.cncf.io) and an [OpenTelemetry Vendor](https://opentelemetry.io/ecosystem/vendors/). Each SDK is built with [OpenTelemetry's key signals](https://opentelemetry.io/docs/concepts/signals/) as the basis for its telemetry. Presently, the iOS, Android, Web, and React Native SDKs have fully-exportable traces and logs built into their feature sets.
 
-Additionally, Embrace is working to make Kotlin a first-class language in the OpenTelemetry ecosystem, to better-support mobile engineers working on Android and [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html). The first step is a currently-experimental [Kotlin API](https://github.com/embrace-io/opentelemetry-kotlin) that binds the existing OpenTelemetry-Java SDK. The API provides tracing and logging APIs and can be used in Android and JVM-based projects by providing it with an instance of the Java OTel SDK.
+Additionally, Embrace is working to make Kotlin a first-class language in the OpenTelemetry ecosystem, to better-support mobile and web engineers working on Android and [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html). The first step is a currently-experimental [Kotlin API](https://github.com/embrace-io/opentelemetry-kotlin) that binds the existing OpenTelemetry-Java SDK. The API provides tracing and logging APIs and can be used in Android and JVM-based projects by providing it with an instance of the Java OTel SDK.
 
-Embrace's mobile SDKs are each published under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license.
+Embrace's open-source SDKs are each published under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license.
 
 ## Contributing to Embrace
 
